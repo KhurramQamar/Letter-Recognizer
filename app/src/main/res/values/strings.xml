@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">letterRecognizer</string>
+    <string name="skyletter">Show Sky Letters</string>
+    <string name="rootletter">Show Root Letters</string>
+    <string name="grassletter">Show Grass Letters</string>
+    <string name="check">Check Alphabet</string>
+</resources>
